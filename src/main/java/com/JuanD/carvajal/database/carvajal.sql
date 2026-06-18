@@ -1,4 +1,4 @@
-create database if not exists carvajal;
+create database carvajal;
 use carvajal;
 
 create table categoria (
